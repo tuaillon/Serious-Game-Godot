@@ -1,0 +1,7 @@
+[gd_scene format=3 uid="uid://cyopdgn3jkj2j"]
+
+[node name="Système de Combat" type="Control" unique_id=1366301814]
+layout_mode = 3
+anchors_preset = 0
+offset_right = 40.0
+offset_bottom = 40.0
